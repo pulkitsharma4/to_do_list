@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(216, 255, 255);
+}
+
+
+.delete {
+    border-radius: 10%;
+    margin: 0 20px;
+    border-style: hidden;
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 0.7rem;
+    color: grey;
+}
+
+main{
+    display: block;
+    margin-left: 40%;
+
+} 
+
